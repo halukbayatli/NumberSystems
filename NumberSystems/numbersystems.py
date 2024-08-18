@@ -1,9 +1,3 @@
-"""
-Ad: Haluk
-Soyad: Bayatlı
-Numara: 23100011030
-"""
-
 s = "TABAN DEĞİŞTİRME PROGRAMI"
 s = s.center(150, "-")
 print(s)
